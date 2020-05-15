@@ -1,4 +1,7 @@
-Title of the project: guessinggame.sh\n
-Date: 05-14-2020\n
-Time: 17:45:24\n
+Title of the project: guessinggame.sh
+
+Date: 05-14-2020
+
+Time: 17:52:39
+
 Number of lines: 37
